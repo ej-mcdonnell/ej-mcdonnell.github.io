@@ -42,7 +42,7 @@ h2 {
   padding-top: 1em;
   font-size: 1.953em;
   border-bottom-style: solid;
-  border-bottom-color: #3c2363;
+  border-bottom-color: #013b25;
 }
 
 h3 {
@@ -120,11 +120,11 @@ h4 {
 }
 
 #mobile_nav li a:hover {
-    background-color: #503482;
+    background-color: #013b25;
 }
 
 #mobile_nav li a:focus {
-    background-color: #503482;
+    background-color: #013b25;
 }
 
 
@@ -148,7 +148,7 @@ h4 {
 /*                              Header Styles                        */
 
 header {
-  background-color: #3c2363;
+  background-color: #013b25;
 }
 
 
@@ -168,7 +168,7 @@ header {
 
 footer {
   text-align: center;
-  background-color: #3c2363;
+  background-color: #013b25;
   color: #ededed;
   margin-bottom: 30em;    /*    Creating more space so the navigation seems like it's on another page, per step 2 feedback    */
 }
@@ -176,7 +176,7 @@ footer {
 .foot_div {
   padding-top: .5em;
   padding-bottom: .5em;
-  font-size: 1.5em;
+  font-size: 1em;
 }
 
 .center {
@@ -192,7 +192,7 @@ footer {
    margin-left: 3em;
    border-bottom-style: solid;
    border-bottom-width: .05em;
-   border-bottom-color: #3c2363;
+   border-bottom-color: #013b25;
 }
 
 .col-25 {width: 0%;}
@@ -203,6 +203,24 @@ footer {
 }
 .project-img{
   display: none;   
+}
+.service-para{
+  border-top-style: solid;
+  border-top-width: .05em;
+  border-top-color: #013b25;
+  margin-bottom: 0em;
+  margin-top: 2em;
+}
+.service-li {
+  padding-top: 0em;
+  padding-bottom: 0em;
+  margin-left: 2em;
+}
+.footer-link:link {
+  color:#ededed;
+}
+.footer-link:visited {
+  color:#ededed;
 }
 
 
@@ -241,7 +259,7 @@ footer {
       }
 
       .sidenav a:hover, .sidenav a:focus {
-          background-color: #3c2363;
+          background-color: #013b25;
       }
 
       .me_picture {
