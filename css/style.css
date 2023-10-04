@@ -42,7 +42,7 @@ h2 {
   padding-top: 1em;
   font-size: 1.953em;
   border-bottom-style: solid;
-  border-bottom-color: #013b25;
+  border-bottom-color: #2f2d80;
 }
 
 h3 {
@@ -120,11 +120,11 @@ h4 {
 }
 
 #mobile_nav li a:hover {
-    background-color: #013b25;
+    background-color: #2f2d80;
 }
 
 #mobile_nav li a:focus {
-    background-color: #013b25;
+    background-color: #2f2d80;
 }
 
 
@@ -148,7 +148,7 @@ h4 {
 /*                              Header Styles                        */
 
 header {
-  background-color: #013b25;
+  background-color: #2f2d80/*#013b25;*/
 }
 
 
@@ -168,7 +168,7 @@ header {
 
 footer {
   text-align: center;
-  background-color: #013b25;
+  background-color: #2f2d80;
   color: #ededed;
   margin-bottom: 30em;    /*    Creating more space so the navigation seems like it's on another page, per step 2 feedback    */
 }
@@ -192,7 +192,7 @@ footer {
    margin-left: 3em;
    border-bottom-style: solid;
    border-bottom-width: .05em;
-   border-bottom-color: #013b25;
+   border-bottom-color: #2f2d80;
 }
 
 .col-25 {width: 0%;}
@@ -207,7 +207,7 @@ footer {
 .service-para{
   border-top-style: solid;
   border-top-width: .05em;
-  border-top-color: #013b25;
+  border-top-color: #2f2d80;
   margin-bottom: 0em;
   margin-top: 2em;
 }
@@ -259,7 +259,8 @@ footer {
       }
 
       .sidenav a:hover, .sidenav a:focus {
-          background-color: #013b25;
+          background-color: #2f2d80
+          /* #013b25; */
       }
 
       .me_picture {
